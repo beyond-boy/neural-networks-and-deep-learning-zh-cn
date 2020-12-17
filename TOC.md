@@ -7,3 +7,4 @@
 * [第四章 可视化证明神经网络可以计算任何函数](chapter4.md)
 * [第五章 深度神经网络为何很难训练](chapter5.md)
 * [第六章 深度学习](chapter6.md)
+http://www.szgm.gov.cn/xxgk/qbmbscxxgkml/zfhjsjcsgxj_118125/xxgk/jgzz_118127/jgld_118129/content/post_5028246.html
